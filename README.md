@@ -1,4 +1,4 @@
-# Pdm_sequenceModels_Azure
+# Predictive Maintenance using sequence models running on Azure
 
 Read this details of the usecase on this [link](https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/cortana-analytics-playbook-predictive-maintenance).  
 
