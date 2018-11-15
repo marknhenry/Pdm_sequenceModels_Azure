@@ -4,7 +4,7 @@ Prerequisites for this environment
 * Log on to Azure
 * Create a new Linux DSVM (Choose NC6 at least), this runs on GPU
 * Log in via putty (or something similar)
-* Run the following commands
+* Run the following commands on the linux terminal
 
  
 First attach to a terminal for connectivity issues:
